@@ -18,12 +18,12 @@ body {
   
   .clockCase {
     display: flex;
-    align-items: center;
+    justify-content: center;
   }
   
   
   .buttonCase {
     display: flex;
-    align-items: center;
+    justify-content: center;
   }
   
